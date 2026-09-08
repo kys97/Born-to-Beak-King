@@ -1,0 +1,42 @@
+# Unity generated state
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/[Dd]ata/
+**/*_BurstDebugInformation_DoNotShip/
+**/*_BackUpThisFolder_ButDontShipItWithYourGame/
+
+# IDE-generated files
+/.vs/
+/.idea/
+/*.csproj
+/*.sln
+/*.slnx
+/*.user
+/*.suo
+/*.pidb
+/*.booproj
+
+# WebGL build output; keep authored documentation
+/docs/Build/
+/docs/TemplateData/
+/docs/index.html
+/docs/AI/Refactoring-*/before/
+*.log
+
+# Local Google Sheets credentials (configure separately after cloning)
+/Assets/Resources/UGSettingObject.asset
+/Assets/Resources/UGSettingObject.asset.meta
+.env
+.env.*
+!.env.example
+*.keystore
+*.jks
+*.pfx
+*.p12
+.DS_Store
+Thumbs.db
