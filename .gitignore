@@ -21,10 +21,7 @@
 /*.pidb
 /*.booproj
 
-# WebGL build output; keep authored documentation
-/docs/Build/
-/docs/TemplateData/
-/docs/index.html
+# Local refactoring backups (docs WebGL build is versioned)
 /docs/AI/Refactoring-*/before/
 *.log
 

@@ -23,4 +23,4 @@ Unity 기반 선택형 게임 프로젝트입니다.
 - `Packages`, `ProjectSettings`: 재현에 필요한 Unity 설정
 - `docs/AI`: 프로젝트 분석과 리팩토링 기록
 
-Unity 캐시, IDE 생성 파일, 빌드 결과물과 로컬 비밀번호 설정은 버전 관리하지 않습니다. 새로운 환경에서의 실행과 플랫폼 빌드는 별도로 확인해야 합니다.
+`docs/index.html`, `docs/Build`, `docs/TemplateData`에는 WebGL 실행에 필요한 빌드 결과물을 함께 보관합니다. Unity 캐시, IDE 생성 파일과 로컬 비밀번호 설정은 버전 관리하지 않습니다. 새로운 환경에서의 실행과 플랫폼 빌드는 별도로 확인해야 합니다.
